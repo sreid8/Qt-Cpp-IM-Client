@@ -1,0 +1,6 @@
+This is an IM Client written in C++ with the Qt 5.0 framework, however, it should work with anything above Qt v4.
+It has 4 major versions:
+TCP/Client-Server
+TCP/P2P
+UDP/Client-Server
+UDP/P2P
